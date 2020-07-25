@@ -51,6 +51,7 @@ namespace Client_Test
             else if (temp[0].Contains("002"))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
+                chMode = "[SYSTEM] : ";
             }
             else
             {
